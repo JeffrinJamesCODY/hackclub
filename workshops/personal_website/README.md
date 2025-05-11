@@ -48,7 +48,7 @@ Wait a bit for the codespace to load and then you should see this:
 
 Congrats! You created a codespace. This is where you will write the code for your website.
 
-If you are using Firefox, you may have to disable Enchanced Tracking Protection.
+If you are using Firefox, you may have to disable Enhanced Tracking Protection.
 
 ## Part II: The HTML File
 
