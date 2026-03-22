@@ -25,19 +25,19 @@ Head to [this page](https://create.kahoot.it/v2/discover) and choose a Kahoot th
 
 Click the `Play` button.
 
-![Play button](https://cloud-lewnc6ao9.vercel.app/3screenshot_2020-12-10_at_10.42.35_pm.png)
+![Play button](https://cdn.hackclub.com/019d1743-f719-7a0f-8fe2-9baab31e41df/Screenshot%202020-12-10%20at%2010.42.35%20PM%20(1).png)
 
 Choose the option on the right.
 
-![Option to pick](https://cloud-lewnc6ao9.vercel.app/2screenshot_2020-12-10_at_10.44.16_pm.png)
+![Option to pick](https://cdn.hackclub.com/019d1742-c02a-7f82-8afe-6e7e5a810df6/Screenshot%202020-12-10%20at%2010.44.16%20PM.png)
 
 Configure them as per the following image and then click `Create`.
 
-![Config window](https://cloud-lewnc6ao9.vercel.app/1screenshot_2020-12-10_at_10.44.43_pm.png)
+![Config window](https://cdn.hackclub.com/019d1742-56ab-7f79-8a38-2ca8b788fa59/Screenshot%202020-12-10%20at%2010.44.43%20PM.png)
 
 Copy the Game PIN provided and keep it safe.
 
-![Game PIN highlighted](https://cloud-lewnc6ao9.vercel.app/0screenshot_2020-12-10_at_10.45.27_pm.png)
+![Game PIN highlighted](https://cdn.hackclub.com/019d1741-d0f9-7640-89eb-6ed5b1346fe0/Screenshot%202020-12-10%20at%2010.45.27%20PM.png)
 
 Repeat this two more times.
 
